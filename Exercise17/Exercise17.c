@@ -7,7 +7,7 @@
 
 #include<stdio.h>
 
-
+/* A function to swap two arrays */
 int * Swap(int a_size,int *a,int b_size,int *b)
 {
 	int temp;
